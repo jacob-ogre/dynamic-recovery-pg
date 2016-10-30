@@ -28,8 +28,6 @@ of the strengths and weaknesses of these different dynamic recovery plan types.
 
 <br>
 
-<!--- <div class="col-md-12"> -->
-
 
 <!--- Google_Docs_version -->
 <div class="panel panel-primary">
@@ -147,5 +145,47 @@ __CONS__
 </div>
 <!--- END_DISCOURSE_VERSION -->
 
+
+<!--- GitBook_version -->
+<div class="panel panel-default">
+<div class="panel-heading">
+
+<h4><a href="https://www.gitbook.com/book/jacob-ogre/gst_recovery/details" target="_blank">GitBook Version</a></h4>
+
 </div>
+<div class="panel-body">
+<div class="row">
+<div class="col-md-3">
+
+A dynamic recovery plan built using [GitBook](http://www.gitbook.com).
+The layout is very "book-like," organized into chapters and sections, paginated.
+Content version control with [git](https://git-scm.com/).
+
+</div>
+<div class="col-md-3">
+
+__PROS__
+
+- Somewhat familiar book-like interface
+- Fully developed, including security and editing tools
+
+__CONS__
+
+- Unfamiliar user interface for editing and version control
+- Graph embedding by `iframes`, but not direct
+
+</div>
+<div class="col-md-6">
+<a href="https://www.gitbook.com/book/jacob-ogre/gst_recovery/details" target="_blank"><img src="img/gitbook_recplan.png" alt="GitBook recovery plan" width="100%" style="border:1px solid #cccccc"></a>
+</div>
+</div>
+</div>
+</div>
+<!--- END_GITBOOK_VERSION -->
+
+<hr>
+
+<div>Contents <a href="https://creativecommons.org/licenses/by-nc-sa/3.0/" target="_blank">CC BY-NC-SA</a> <a href="http://www.defenders.org" target="_blank">Defenders of Wildlife, 2016</a>
+</div>
+
 </div>
