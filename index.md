@@ -2,6 +2,8 @@
 
 # Dynamic Recovery Plans
 
+<hr>
+
 The [U.S. Endangered Species Act](http://www.nmfs.noaa.gov/pr/laws/esa/text.htm) 
 directs the Fish and Wildlife Service ([FWS](http://www.fws.gov)) and the 
 National Marine Fisheries Service ([NMFS](http://www.nmfs.noaa.gov)) to develop 
@@ -21,8 +23,6 @@ below we briefly discuss and link to these alternatives.
 We have also written up a [brief analysis](https://docs.google.com/document/d/1Z4l63uCoRxLOpHh1EdiPi1MCrx-dsak7Cl8rx7PVmwY/edit?usp=sharing) 
 of the strengths and weaknesses of these different dynamic recovery plan types.
 [We welcome feedback](mailto:esa@defenders.org) on these prototypes!
-
-<br>
 
 ----
 
@@ -49,8 +49,8 @@ link directly to external resources.
 
 __PROS__
 
-- Docs development and maintenance by Google; both FWS and NMFS use GSuite already
-- Security, sharing, collaboration, and other features already integrated
+- App development and maintenance by Google; both FWS and NMFS already use GSuite
+- Security, sharing, collaboration, and most other features already integrated
 
 __CONS__
 
@@ -187,5 +187,7 @@ __CONS__
 
 <div>Contents <a href="https://creativecommons.org/licenses/by-nc-sa/3.0/" target="_blank">CC BY-NC-SA</a> <a href="http://www.defenders.org" target="_blank">Defenders of Wildlife, 2016</a>
 </div>
+
+<hr>
 
 </div>
